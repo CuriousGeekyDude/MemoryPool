@@ -1,0 +1,219 @@
+hello_test.cc
+Note: including file: C:\users\farhan\_bazel_farhan\vc64wr4t\execroot\_main\external\googletest~\googletest\include\gtest/gtest.h
+Note: including file:  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\cstddef
+Note: including file:   C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\yvals_core.h
+Note: including file:    C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\vcruntime.h
+Note: including file:     C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\sal.h
+Note: including file:      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\concurrencysal.h
+Note: including file:     C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\vadefs.h
+Note: including file:    C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\xkeycheck.h
+Note: including file:   C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\ucrt\stddef.h
+Note: including file:    C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\ucrt\corecrt.h
+Note: including file:   C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\xtr1common
+Note: including file:  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\cstdint
+Note: including file:   C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\stdint.h
+Note: including file:  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\limits
+Note: including file:   C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\cfloat
+Note: including file:    C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\ucrt\float.h
+Note: including file:   C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\climits
+Note: including file:    C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\limits.h
+Note: including file:   C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\cwchar
+Note: including file:    C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\cstdio
+Note: including file:     C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\ucrt\stdio.h
+Note: including file:      C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\ucrt\corecrt_wstdio.h
+Note: including file:       C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\ucrt\corecrt_stdio_config.h
+Note: including file:    C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\ucrt\wchar.h
+Note: including file:     C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\ucrt\corecrt_memcpy_s.h
+Note: including file:      C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\ucrt\errno.h
+Note: including file:      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\vcruntime_string.h
+Note: including file:     C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\ucrt\corecrt_wconio.h
+Note: including file:     C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\ucrt\corecrt_wctype.h
+Note: including file:     C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\ucrt\corecrt_wdirect.h
+Note: including file:     C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\ucrt\corecrt_wio.h
+Note: including file:      C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\ucrt\corecrt_share.h
+Note: including file:     C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\ucrt\corecrt_wprocess.h
+Note: including file:     C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\ucrt\corecrt_wstdlib.h
+Note: including file:     C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\ucrt\corecrt_wstring.h
+Note: including file:     C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\ucrt\corecrt_wtime.h
+Note: including file:     C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\ucrt\sys/stat.h
+Note: including file:      C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\ucrt\sys/types.h
+Note: including file:   C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\intrin0.h
+Note: including file:    C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\intrin0.inl.h
+Note: including file:   C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\isa_availability.h
+Note: including file:   C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\xstddef
+Note: including file:    C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\cstdlib
+Note: including file:     C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\ucrt\math.h
+Note: including file:      C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\ucrt\corecrt_math.h
+Note: including file:     C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\ucrt\stdlib.h
+Note: including file:      C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\ucrt\corecrt_malloc.h
+Note: including file:      C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\ucrt\corecrt_search.h
+Note: including file:    C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\initializer_list
+Note: including file:  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\memory
+Note: including file:   C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\exception
+Note: including file:    C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\yvals.h
+Note: including file:     C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\ucrt\crtdbg.h
+Note: including file:      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\vcruntime_new_debug.h
+Note: including file:       C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\vcruntime_new.h
+Note: including file:     C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\crtdefs.h
+Note: including file:     C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\use_ansi.h
+Note: including file:    C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\type_traits
+Note: including file:    C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\ucrt\malloc.h
+Note: including file:    C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\vcruntime_exception.h
+Note: including file:     C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\eh.h
+Note: including file:      C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\ucrt\corecrt_terminate.h
+Note: including file:   C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\iosfwd
+Note: including file:    C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\cstring
+Note: including file:     C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\ucrt\string.h
+Note: including file:      C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\ucrt\corecrt_memory.h
+Note: including file:   C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\typeinfo
+Note: including file:    C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\vcruntime_typeinfo.h
+Note: including file:   C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\xmemory
+Note: including file:    C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\new
+Note: including file:    C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\xatomic.h
+Note: including file:    C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\xutility
+Note: including file:     C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\__msvc_iter_core.hpp
+Note: including file:      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\utility
+Note: including file:  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\ostream
+Note: including file:   C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\ios
+Note: including file:    C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\xlocnum
+Note: including file:     C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\cmath
+Note: including file:     C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\iterator
+Note: including file:     C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\streambuf
+Note: including file:      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\xiosbase
+Note: including file:       C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\ucrt\share.h
+Note: including file:       C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\system_error
+Note: including file:        C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\__msvc_system_error_abi.hpp
+Note: including file:        C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\cerrno
+Note: including file:        C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\stdexcept
+Note: including file:         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\xstring
+Note: including file:        C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\xcall_once.h
+Note: including file:        C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\xerrc.h
+Note: including file:        C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\atomic
+Note: including file:         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\xthreads.h
+Note: including file:          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\xtimec.h
+Note: including file:           C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\ctime
+Note: including file:            C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\ucrt\time.h
+Note: including file:       C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\xlocale
+Note: including file:        C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\xfacet
+Note: including file:        C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\xlocinfo
+Note: including file:         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\__msvc_xlocinfo_types.hpp
+Note: including file:         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\cctype
+Note: including file:          C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\ucrt\ctype.h
+Note: including file:         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\clocale
+Note: including file:          C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\ucrt\locale.h
+Note: including file:  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\set
+Note: including file:   C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\xtree
+Note: including file:  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\sstream
+Note: including file:   C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\istream
+Note: including file:   C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\string
+Note: including file:  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\vector
+Note: including file:  C:\users\farhan\_bazel_farhan\vc64wr4t\execroot\_main\external\googletest~\googletest\include\gtest/gtest-assertion-result.h
+Note: including file:   C:\users\farhan\_bazel_farhan\vc64wr4t\execroot\_main\external\googletest~\googletest\include\gtest/gtest-message.h
+Note: including file:    C:\users\farhan\_bazel_farhan\vc64wr4t\execroot\_main\external\googletest~\googletest\include\gtest/internal/gtest-port.h
+Note: including file:     C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\ciso646
+Note: including file:      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\iso646.h
+Note: including file:     C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\iostream
+Note: including file:     C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\locale
+Note: including file:      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\xlocbuf
+Note: including file:      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\xlocmes
+Note: including file:      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\xlocmon
+Note: including file:      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\xloctime
+Note: including file:     C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\tuple
+Note: including file:     C:\users\farhan\_bazel_farhan\vc64wr4t\execroot\_main\external\googletest~\googletest\include\gtest/internal/custom/gtest-port.h
+Note: including file:     C:\users\farhan\_bazel_farhan\vc64wr4t\execroot\_main\external\googletest~\googletest\include\gtest/internal/gtest-port-arch.h
+Note: including file:     C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\ucrt\direct.h
+Note: including file:     C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\ucrt\io.h
+Note: including file:      C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\ucrt\corecrt_io.h
+Note: including file:     C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\condition_variable
+Note: including file:      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\__msvc_chrono.hpp
+Note: including file:       C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\ratio
+Note: including file:      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\mutex
+Note: including file:       C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\thread
+Note: including file:        C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\ucrt\process.h
+Note: including file:         C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\ucrt\corecrt_startup.h
+Note: including file:          C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\ucrt\math.h
+Note: including file:          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\vcruntime_startup.h
+Note: including file:  C:\users\farhan\_bazel_farhan\vc64wr4t\execroot\_main\external\googletest~\googletest\include\gtest/gtest-death-test.h
+Note: including file:   C:\users\farhan\_bazel_farhan\vc64wr4t\execroot\_main\external\googletest~\googletest\include\gtest/internal/gtest-death-test-internal.h
+Note: including file:    C:\users\farhan\_bazel_farhan\vc64wr4t\execroot\_main\external\googletest~\googletest\include\gtest/gtest-matchers.h
+Note: including file:     C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\functional
+Note: including file:     C:\users\farhan\_bazel_farhan\vc64wr4t\execroot\_main\external\googletest~\googletest\include\gtest/gtest-printers.h
+Note: including file:      C:\users\farhan\_bazel_farhan\vc64wr4t\execroot\_main\external\googletest~\googletest\include\gtest/internal/gtest-internal.h
+Note: including file:       C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\map
+Note: including file:       C:\users\farhan\_bazel_farhan\vc64wr4t\execroot\_main\external\googletest~\googletest\include\gtest/internal/gtest-filepath.h
+Note: including file:        C:\users\farhan\_bazel_farhan\vc64wr4t\execroot\_main\external\googletest~\googletest\include\gtest/internal/gtest-string.h
+Note: including file:       C:\users\farhan\_bazel_farhan\vc64wr4t\execroot\_main\external\googletest~\googletest\include\gtest/internal/gtest-type-util.h
+Note: including file:      C:\users\farhan\_bazel_farhan\vc64wr4t\execroot\_main\external\googletest~\googletest\include\gtest/internal/custom/gtest-printers.h
+Note: including file:  C:\users\farhan\_bazel_farhan\vc64wr4t\execroot\_main\external\googletest~\googletest\include\gtest/gtest-param-test.h
+Note: including file:   C:\users\farhan\_bazel_farhan\vc64wr4t\execroot\_main\external\googletest~\googletest\include\gtest/internal/gtest-param-util.h
+Note: including file:    C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\cassert
+Note: including file:     C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\ucrt\assert.h
+Note: including file:    C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\unordered_map
+Note: including file:     C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\xhash
+Note: including file:      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\list
+Note: including file:      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\xbit_ops.h
+Note: including file:    C:\users\farhan\_bazel_farhan\vc64wr4t\execroot\_main\external\googletest~\googletest\include\gtest/gtest-test-part.h
+Note: including file:  C:\users\farhan\_bazel_farhan\vc64wr4t\execroot\_main\external\googletest~\googletest\include\gtest/gtest-typed-test.h
+Note: including file:  C:\users\farhan\_bazel_farhan\vc64wr4t\execroot\_main\external\googletest~\googletest\include\gtest/gtest_pred_impl.h
+Note: including file:  C:\users\farhan\_bazel_farhan\vc64wr4t\execroot\_main\external\googletest~\googletest\include\gtest/gtest_prod.h
+Note: including file: C:\users\farhan\_bazel_farhan\vc64wr4t\execroot\_main\MemoryPool.hpp
+hello_test.cc(27): error C2039: 'GetIndexOfNextPtr': is not a member of 'MemoryPool'
+C:\users\farhan\_bazel_farhan\vc64wr4t\execroot\_main\MemoryPool.hpp(7): note: see declaration of 'MemoryPool'
+hello_test.cc(27): error C2660: 'testing::internal::EqHelper::Compare': function does not take 3 arguments
+C:\users\farhan\_bazel_farhan\vc64wr4t\execroot\_main\external\googletest~\googletest\include\gtest/gtest.h(1422): note: see declaration of 'testing::internal::EqHelper::Compare'
+C:\users\farhan\_bazel_farhan\vc64wr4t\execroot\_main\external\googletest~\googletest\include\gtest/gtest.h(1429): note: could be 'testing::AssertionResult testing::internal::EqHelper::Compare(const char *,const char *,std::nullptr_t,T *)'
+hello_test.cc(27): note: 'testing::AssertionResult testing::internal::EqHelper::Compare(const char *,const char *,std::nullptr_t,T *)': expects 4 arguments - 3 provided
+C:\users\farhan\_bazel_farhan\vc64wr4t\execroot\_main\external\googletest~\googletest\include\gtest/gtest.h(1410): note: or       'testing::AssertionResult testing::internal::EqHelper::Compare(const char *,const char *,const T1 &,const T2 &)'
+hello_test.cc(27): note: 'testing::AssertionResult testing::internal::EqHelper::Compare(const char *,const char *,const T1 &,const T2 &)': expects 4 arguments - 3 provided
+hello_test.cc(27): note: while trying to match the argument list '(const char [28], const char [2], int)'
+hello_test.cc(27): error C2737: 'gtest_ar': const object must be initialized
+hello_test.cc(29): error C2039: 'GetIndexOfNextPtr': is not a member of 'MemoryPool'
+C:\users\farhan\_bazel_farhan\vc64wr4t\execroot\_main\MemoryPool.hpp(7): note: see declaration of 'MemoryPool'
+hello_test.cc(29): error C2660: 'testing::internal::EqHelper::Compare': function does not take 3 arguments
+C:\users\farhan\_bazel_farhan\vc64wr4t\execroot\_main\external\googletest~\googletest\include\gtest/gtest.h(1422): note: see declaration of 'testing::internal::EqHelper::Compare'
+C:\users\farhan\_bazel_farhan\vc64wr4t\execroot\_main\external\googletest~\googletest\include\gtest/gtest.h(1429): note: could be 'testing::AssertionResult testing::internal::EqHelper::Compare(const char *,const char *,std::nullptr_t,T *)'
+hello_test.cc(29): note: 'testing::AssertionResult testing::internal::EqHelper::Compare(const char *,const char *,std::nullptr_t,T *)': expects 4 arguments - 3 provided
+C:\users\farhan\_bazel_farhan\vc64wr4t\execroot\_main\external\googletest~\googletest\include\gtest/gtest.h(1410): note: or       'testing::AssertionResult testing::internal::EqHelper::Compare(const char *,const char *,const T1 &,const T2 &)'
+hello_test.cc(29): note: 'testing::AssertionResult testing::internal::EqHelper::Compare(const char *,const char *,const T1 &,const T2 &)': expects 4 arguments - 3 provided
+hello_test.cc(29): note: while trying to match the argument list '(const char [28], const char [2], int)'
+hello_test.cc(29): error C2737: 'gtest_ar': const object must be initialized
+hello_test.cc(31): error C2039: 'GetIndexOfNextPtr': is not a member of 'MemoryPool'
+C:\users\farhan\_bazel_farhan\vc64wr4t\execroot\_main\MemoryPool.hpp(7): note: see declaration of 'MemoryPool'
+hello_test.cc(31): error C2660: 'testing::internal::EqHelper::Compare': function does not take 3 arguments
+C:\users\farhan\_bazel_farhan\vc64wr4t\execroot\_main\external\googletest~\googletest\include\gtest/gtest.h(1422): note: see declaration of 'testing::internal::EqHelper::Compare'
+C:\users\farhan\_bazel_farhan\vc64wr4t\execroot\_main\external\googletest~\googletest\include\gtest/gtest.h(1429): note: could be 'testing::AssertionResult testing::internal::EqHelper::Compare(const char *,const char *,std::nullptr_t,T *)'
+hello_test.cc(31): note: 'testing::AssertionResult testing::internal::EqHelper::Compare(const char *,const char *,std::nullptr_t,T *)': expects 4 arguments - 3 provided
+C:\users\farhan\_bazel_farhan\vc64wr4t\execroot\_main\external\googletest~\googletest\include\gtest/gtest.h(1410): note: or       'testing::AssertionResult testing::internal::EqHelper::Compare(const char *,const char *,const T1 &,const T2 &)'
+hello_test.cc(31): note: 'testing::AssertionResult testing::internal::EqHelper::Compare(const char *,const char *,const T1 &,const T2 &)': expects 4 arguments - 3 provided
+hello_test.cc(31): note: while trying to match the argument list '(const char [28], const char [2], int)'
+hello_test.cc(31): error C2737: 'gtest_ar': const object must be initialized
+hello_test.cc(34): error C2039: 'GetIndexOfNextPtr': is not a member of 'MemoryPool'
+C:\users\farhan\_bazel_farhan\vc64wr4t\execroot\_main\MemoryPool.hpp(7): note: see declaration of 'MemoryPool'
+hello_test.cc(34): error C2660: 'testing::internal::EqHelper::Compare': function does not take 3 arguments
+C:\users\farhan\_bazel_farhan\vc64wr4t\execroot\_main\external\googletest~\googletest\include\gtest/gtest.h(1422): note: see declaration of 'testing::internal::EqHelper::Compare'
+C:\users\farhan\_bazel_farhan\vc64wr4t\execroot\_main\external\googletest~\googletest\include\gtest/gtest.h(1429): note: could be 'testing::AssertionResult testing::internal::EqHelper::Compare(const char *,const char *,std::nullptr_t,T *)'
+hello_test.cc(34): note: 'testing::AssertionResult testing::internal::EqHelper::Compare(const char *,const char *,std::nullptr_t,T *)': expects 4 arguments - 3 provided
+C:\users\farhan\_bazel_farhan\vc64wr4t\execroot\_main\external\googletest~\googletest\include\gtest/gtest.h(1410): note: or       'testing::AssertionResult testing::internal::EqHelper::Compare(const char *,const char *,const T1 &,const T2 &)'
+hello_test.cc(34): note: 'testing::AssertionResult testing::internal::EqHelper::Compare(const char *,const char *,const T1 &,const T2 &)': expects 4 arguments - 3 provided
+hello_test.cc(34): note: while trying to match the argument list '(const char [28], const char [2], int)'
+hello_test.cc(34): error C2737: 'gtest_ar': const object must be initialized
+hello_test.cc(36): error C2039: 'GetIndexOfNextPtr': is not a member of 'MemoryPool'
+C:\users\farhan\_bazel_farhan\vc64wr4t\execroot\_main\MemoryPool.hpp(7): note: see declaration of 'MemoryPool'
+hello_test.cc(36): error C2660: 'testing::internal::EqHelper::Compare': function does not take 3 arguments
+C:\users\farhan\_bazel_farhan\vc64wr4t\execroot\_main\external\googletest~\googletest\include\gtest/gtest.h(1422): note: see declaration of 'testing::internal::EqHelper::Compare'
+C:\users\farhan\_bazel_farhan\vc64wr4t\execroot\_main\external\googletest~\googletest\include\gtest/gtest.h(1429): note: could be 'testing::AssertionResult testing::internal::EqHelper::Compare(const char *,const char *,std::nullptr_t,T *)'
+hello_test.cc(36): note: 'testing::AssertionResult testing::internal::EqHelper::Compare(const char *,const char *,std::nullptr_t,T *)': expects 4 arguments - 3 provided
+C:\users\farhan\_bazel_farhan\vc64wr4t\execroot\_main\external\googletest~\googletest\include\gtest/gtest.h(1410): note: or       'testing::AssertionResult testing::internal::EqHelper::Compare(const char *,const char *,const T1 &,const T2 &)'
+hello_test.cc(36): note: 'testing::AssertionResult testing::internal::EqHelper::Compare(const char *,const char *,const T1 &,const T2 &)': expects 4 arguments - 3 provided
+hello_test.cc(36): note: while trying to match the argument list '(const char [28], const char [2], int)'
+hello_test.cc(36): error C2737: 'gtest_ar': const object must be initialized
+hello_test.cc(38): error C2039: 'GetIndexOfNextPtr': is not a member of 'MemoryPool'
+C:\users\farhan\_bazel_farhan\vc64wr4t\execroot\_main\MemoryPool.hpp(7): note: see declaration of 'MemoryPool'
+hello_test.cc(38): error C2660: 'testing::internal::EqHelper::Compare': function does not take 3 arguments
+C:\users\farhan\_bazel_farhan\vc64wr4t\execroot\_main\external\googletest~\googletest\include\gtest/gtest.h(1422): note: see declaration of 'testing::internal::EqHelper::Compare'
+C:\users\farhan\_bazel_farhan\vc64wr4t\execroot\_main\external\googletest~\googletest\include\gtest/gtest.h(1429): note: could be 'testing::AssertionResult testing::internal::EqHelper::Compare(const char *,const char *,std::nullptr_t,T *)'
+hello_test.cc(38): note: 'testing::AssertionResult testing::internal::EqHelper::Compare(const char *,const char *,std::nullptr_t,T *)': expects 4 arguments - 3 provided
+C:\users\farhan\_bazel_farhan\vc64wr4t\execroot\_main\external\googletest~\googletest\include\gtest/gtest.h(1410): note: or       'testing::AssertionResult testing::internal::EqHelper::Compare(const char *,const char *,const T1 &,const T2 &)'
+hello_test.cc(38): note: 'testing::AssertionResult testing::internal::EqHelper::Compare(const char *,const char *,const T1 &,const T2 &)': expects 4 arguments - 3 provided
+hello_test.cc(38): note: while trying to match the argument list '(const char [28], const char [2], int)'
+hello_test.cc(38): error C2737: 'gtest_ar': const object must be initialized

@@ -1,0 +1,60 @@
+hello_test.cc(27): error C2039: 'GetIndexOfNextPtr': is not a member of 'MemoryPool'
+C:\users\farhan\_bazel_farhan\vc64wr4t\execroot\_main\MemoryPool.hpp(7): note: see declaration of 'MemoryPool'
+hello_test.cc(27): error C2660: 'testing::internal::EqHelper::Compare': function does not take 3 arguments
+C:\users\farhan\_bazel_farhan\vc64wr4t\execroot\_main\external\googletest~\googletest\include\gtest/gtest.h(1422): note: see declaration of 'testing::internal::EqHelper::Compare'
+C:\users\farhan\_bazel_farhan\vc64wr4t\execroot\_main\external\googletest~\googletest\include\gtest/gtest.h(1429): note: could be 'testing::AssertionResult testing::internal::EqHelper::Compare(const char *,const char *,std::nullptr_t,T *)'
+hello_test.cc(27): note: 'testing::AssertionResult testing::internal::EqHelper::Compare(const char *,const char *,std::nullptr_t,T *)': expects 4 arguments - 3 provided
+C:\users\farhan\_bazel_farhan\vc64wr4t\execroot\_main\external\googletest~\googletest\include\gtest/gtest.h(1410): note: or       'testing::AssertionResult testing::internal::EqHelper::Compare(const char *,const char *,const T1 &,const T2 &)'
+hello_test.cc(27): note: 'testing::AssertionResult testing::internal::EqHelper::Compare(const char *,const char *,const T1 &,const T2 &)': expects 4 arguments - 3 provided
+hello_test.cc(27): note: while trying to match the argument list '(const char [28], const char [2], int)'
+hello_test.cc(27): error C2737: 'gtest_ar': const object must be initialized
+hello_test.cc(29): error C2039: 'GetIndexOfNextPtr': is not a member of 'MemoryPool'
+C:\users\farhan\_bazel_farhan\vc64wr4t\execroot\_main\MemoryPool.hpp(7): note: see declaration of 'MemoryPool'
+hello_test.cc(29): error C2660: 'testing::internal::EqHelper::Compare': function does not take 3 arguments
+C:\users\farhan\_bazel_farhan\vc64wr4t\execroot\_main\external\googletest~\googletest\include\gtest/gtest.h(1422): note: see declaration of 'testing::internal::EqHelper::Compare'
+C:\users\farhan\_bazel_farhan\vc64wr4t\execroot\_main\external\googletest~\googletest\include\gtest/gtest.h(1429): note: could be 'testing::AssertionResult testing::internal::EqHelper::Compare(const char *,const char *,std::nullptr_t,T *)'
+hello_test.cc(29): note: 'testing::AssertionResult testing::internal::EqHelper::Compare(const char *,const char *,std::nullptr_t,T *)': expects 4 arguments - 3 provided
+C:\users\farhan\_bazel_farhan\vc64wr4t\execroot\_main\external\googletest~\googletest\include\gtest/gtest.h(1410): note: or       'testing::AssertionResult testing::internal::EqHelper::Compare(const char *,const char *,const T1 &,const T2 &)'
+hello_test.cc(29): note: 'testing::AssertionResult testing::internal::EqHelper::Compare(const char *,const char *,const T1 &,const T2 &)': expects 4 arguments - 3 provided
+hello_test.cc(29): note: while trying to match the argument list '(const char [28], const char [2], int)'
+hello_test.cc(29): error C2737: 'gtest_ar': const object must be initialized
+hello_test.cc(31): error C2039: 'GetIndexOfNextPtr': is not a member of 'MemoryPool'
+C:\users\farhan\_bazel_farhan\vc64wr4t\execroot\_main\MemoryPool.hpp(7): note: see declaration of 'MemoryPool'
+hello_test.cc(31): error C2660: 'testing::internal::EqHelper::Compare': function does not take 3 arguments
+C:\users\farhan\_bazel_farhan\vc64wr4t\execroot\_main\external\googletest~\googletest\include\gtest/gtest.h(1422): note: see declaration of 'testing::internal::EqHelper::Compare'
+C:\users\farhan\_bazel_farhan\vc64wr4t\execroot\_main\external\googletest~\googletest\include\gtest/gtest.h(1429): note: could be 'testing::AssertionResult testing::internal::EqHelper::Compare(const char *,const char *,std::nullptr_t,T *)'
+hello_test.cc(31): note: 'testing::AssertionResult testing::internal::EqHelper::Compare(const char *,const char *,std::nullptr_t,T *)': expects 4 arguments - 3 provided
+C:\users\farhan\_bazel_farhan\vc64wr4t\execroot\_main\external\googletest~\googletest\include\gtest/gtest.h(1410): note: or       'testing::AssertionResult testing::internal::EqHelper::Compare(const char *,const char *,const T1 &,const T2 &)'
+hello_test.cc(31): note: 'testing::AssertionResult testing::internal::EqHelper::Compare(const char *,const char *,const T1 &,const T2 &)': expects 4 arguments - 3 provided
+hello_test.cc(31): note: while trying to match the argument list '(const char [28], const char [2], int)'
+hello_test.cc(31): error C2737: 'gtest_ar': const object must be initialized
+hello_test.cc(34): error C2039: 'GetIndexOfNextPtr': is not a member of 'MemoryPool'
+C:\users\farhan\_bazel_farhan\vc64wr4t\execroot\_main\MemoryPool.hpp(7): note: see declaration of 'MemoryPool'
+hello_test.cc(34): error C2660: 'testing::internal::EqHelper::Compare': function does not take 3 arguments
+C:\users\farhan\_bazel_farhan\vc64wr4t\execroot\_main\external\googletest~\googletest\include\gtest/gtest.h(1422): note: see declaration of 'testing::internal::EqHelper::Compare'
+C:\users\farhan\_bazel_farhan\vc64wr4t\execroot\_main\external\googletest~\googletest\include\gtest/gtest.h(1429): note: could be 'testing::AssertionResult testing::internal::EqHelper::Compare(const char *,const char *,std::nullptr_t,T *)'
+hello_test.cc(34): note: 'testing::AssertionResult testing::internal::EqHelper::Compare(const char *,const char *,std::nullptr_t,T *)': expects 4 arguments - 3 provided
+C:\users\farhan\_bazel_farhan\vc64wr4t\execroot\_main\external\googletest~\googletest\include\gtest/gtest.h(1410): note: or       'testing::AssertionResult testing::internal::EqHelper::Compare(const char *,const char *,const T1 &,const T2 &)'
+hello_test.cc(34): note: 'testing::AssertionResult testing::internal::EqHelper::Compare(const char *,const char *,const T1 &,const T2 &)': expects 4 arguments - 3 provided
+hello_test.cc(34): note: while trying to match the argument list '(const char [28], const char [2], int)'
+hello_test.cc(34): error C2737: 'gtest_ar': const object must be initialized
+hello_test.cc(36): error C2039: 'GetIndexOfNextPtr': is not a member of 'MemoryPool'
+C:\users\farhan\_bazel_farhan\vc64wr4t\execroot\_main\MemoryPool.hpp(7): note: see declaration of 'MemoryPool'
+hello_test.cc(36): error C2660: 'testing::internal::EqHelper::Compare': function does not take 3 arguments
+C:\users\farhan\_bazel_farhan\vc64wr4t\execroot\_main\external\googletest~\googletest\include\gtest/gtest.h(1422): note: see declaration of 'testing::internal::EqHelper::Compare'
+C:\users\farhan\_bazel_farhan\vc64wr4t\execroot\_main\external\googletest~\googletest\include\gtest/gtest.h(1429): note: could be 'testing::AssertionResult testing::internal::EqHelper::Compare(const char *,const char *,std::nullptr_t,T *)'
+hello_test.cc(36): note: 'testing::AssertionResult testing::internal::EqHelper::Compare(const char *,const char *,std::nullptr_t,T *)': expects 4 arguments - 3 provided
+C:\users\farhan\_bazel_farhan\vc64wr4t\execroot\_main\external\googletest~\googletest\include\gtest/gtest.h(1410): note: or       'testing::AssertionResult testing::internal::EqHelper::Compare(const char *,const char *,const T1 &,const T2 &)'
+hello_test.cc(36): note: 'testing::AssertionResult testing::internal::EqHelper::Compare(const char *,const char *,const T1 &,const T2 &)': expects 4 arguments - 3 provided
+hello_test.cc(36): note: while trying to match the argument list '(const char [28], const char [2], int)'
+hello_test.cc(36): error C2737: 'gtest_ar': const object must be initialized
+hello_test.cc(38): error C2039: 'GetIndexOfNextPtr': is not a member of 'MemoryPool'
+C:\users\farhan\_bazel_farhan\vc64wr4t\execroot\_main\MemoryPool.hpp(7): note: see declaration of 'MemoryPool'
+hello_test.cc(38): error C2660: 'testing::internal::EqHelper::Compare': function does not take 3 arguments
+C:\users\farhan\_bazel_farhan\vc64wr4t\execroot\_main\external\googletest~\googletest\include\gtest/gtest.h(1422): note: see declaration of 'testing::internal::EqHelper::Compare'
+C:\users\farhan\_bazel_farhan\vc64wr4t\execroot\_main\external\googletest~\googletest\include\gtest/gtest.h(1429): note: could be 'testing::AssertionResult testing::internal::EqHelper::Compare(const char *,const char *,std::nullptr_t,T *)'
+hello_test.cc(38): note: 'testing::AssertionResult testing::internal::EqHelper::Compare(const char *,const char *,std::nullptr_t,T *)': expects 4 arguments - 3 provided
+C:\users\farhan\_bazel_farhan\vc64wr4t\execroot\_main\external\googletest~\googletest\include\gtest/gtest.h(1410): note: or       'testing::AssertionResult testing::internal::EqHelper::Compare(const char *,const char *,const T1 &,const T2 &)'
+hello_test.cc(38): note: 'testing::AssertionResult testing::internal::EqHelper::Compare(const char *,const char *,const T1 &,const T2 &)': expects 4 arguments - 3 provided
+hello_test.cc(38): note: while trying to match the argument list '(const char [28], const char [2], int)'
+hello_test.cc(38): error C2737: 'gtest_ar': const object must be initialized
